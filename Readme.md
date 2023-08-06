@@ -6,6 +6,10 @@ The original dimension is  4459 × 4735.
 
 By PCA, The PC1 is 0.02392, and PC589 is 0.7001. This means I can describe 70% of the data using only 589 variables. So, I reduced the dimension to 4459 × 589, which extremely reduced the dimension.
 
+PC1 and PC2:
+![PCA](https://github.com/Stephen-SMJ/High_Dimensional_DA/assets/67999981/35224f0d-7b96-4538-8c31-364a5559fc9d)
+
+
 Result:
 
 | Model/Score | RMSE     | MAE       |
